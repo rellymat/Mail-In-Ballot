@@ -1,13 +1,13 @@
 # Mail-In-Ballot
 
-#Requirements
-Pygame: open cmd and run "pip install pygame"
+Requirements
+  Pygame: open cmd and run "pip install pygame"
 
 Run
-download "main.py", "Units.py", "Layer.py", "User.py", "Menu.py" and music and pictures folder
-open cmd
-go to the folder with "main.py"
-run "python main.py"
+  download "main.py", "Units.py", "Layer.py", "User.py", "Menu.py" and music and pictures folder
+  open cmd
+  go to the folder with "main.py"
+  run "python main.py"
 
 Music:
 
