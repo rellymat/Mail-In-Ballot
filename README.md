@@ -5,6 +5,8 @@ Requirements
   Pygame: open cmd and run "pip install pygame"
 
 Run
+
+
   download "main.py", "Units.py", "Layer.py", "User.py", "Menu.py" and music and pictures folder
   open cmd
   go to the folder with "main.py"
@@ -13,11 +15,13 @@ Run
 Music:
 
 Wrong electricity buzz
+
   License: Mixkit License(https://mixkit.co/license/)
   link: https://mixkit.co/free-sound-effects/buzzer/
   Author: Not found
   
 Classic alarm
+
   License: Mixkit License(https://mixkit.co/license/)
   link: https://mixkit.co/free-sound-effects/alarm/
   Author: Not found
