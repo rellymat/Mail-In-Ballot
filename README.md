@@ -1,6 +1,6 @@
 # Mail-In-Ballot
 
-Requirements
+#Requirements
 Pygame: open cmd and run "pip install pygame"
 
 Run
