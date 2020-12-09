@@ -1,37 +1,37 @@
 # Mail-In-Ballot
 
-Requirements
+# Requirements
 
-  Pygame: open cmd and run "pip install pygame"
+   - Pygame: open cmd and run "pip install pygame"
 
-Run
+# Run
 
 
-  download "main.py", "Units.py", "Layer.py", "User.py", "Menu.py" and music and pictures folder
+  - download "main.py", "Units.py", "Layer.py", "User.py", "Menu.py" and music and pictures folder
   
-  open cmd
+  - open cmd
   
-  go to the folder with "main.py"
+  - go to the folder with "main.py"
   
-  run "python main.py"
+  - run "python main.py"
 
-Music:
+# Music:
 
 Wrong electricity buzz
 
-  License: Mixkit License(https://mixkit.co/license/)
+  - License: Mixkit License(https://mixkit.co/license/)
   
-  link: https://mixkit.co/free-sound-effects/buzzer/
+  - link: https://mixkit.co/free-sound-effects/buzzer/
   
-  Author: Not found
+  - Author: Not found
   
-Classic alarm
+Classic alarm 
 
-  License: Mixkit License(https://mixkit.co/license/)
+  - License: Mixkit License(https://mixkit.co/license/)
   
-  link: https://mixkit.co/free-sound-effects/alarm/
+  - link: https://mixkit.co/free-sound-effects/alarm/
   
-  Author: Not found
+  - Author: Not found
   
 Fairy arcade sparkle
 
@@ -98,7 +98,7 @@ Double little bird chirp
   Author: Not found
   
   
-Images:
+# Images:
 
 Scroll Png Clipart
   
