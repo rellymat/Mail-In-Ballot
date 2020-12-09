@@ -1,4 +1,4 @@
-# Mail-In-Ballot
+# Mail-In Ballot
 
 ![menu_pic](https://user-images.githubusercontent.com/48412306/101633595-247dd680-3a30-11eb-917d-05a834831382.png)
 
