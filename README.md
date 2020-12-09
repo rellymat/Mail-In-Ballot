@@ -1,10 +1,13 @@
 # Mail-In-Ballot
 
-# Requirements:
+![menu_pic](https://user-images.githubusercontent.com/48412306/101633595-247dd680-3a30-11eb-917d-05a834831382.png)
+
+
+## Requirements:
 
    - Pygame: open cmd and run "pip install pygame"
 
-# Run:
+## Run:
 
 
   - download "main.py", "Units.py", "Layer.py", "User.py", "Menu.py" and music and pictures folder
@@ -15,14 +18,14 @@
   
   - run "python main.py"
   
-# Manual:
+## Manual:
    Goal: To reach 270 electoral votes before you're out of the electoral votes or out of lives.
 
    How to win: Move with the arrows keys (up and down) to collect electoral votes (the blue circle) and shoot the mail ballot at
 			   the enemy to prevent him from getting into the White House by pressing the Space key. 
 			
 
-# Music:
+## Music:
 
 * Wrong electricity buzz
 
@@ -105,7 +108,7 @@
   - Author: Not found
   
   
-# Images:
+## Images:
 
 * Scroll Png Clipart
   
