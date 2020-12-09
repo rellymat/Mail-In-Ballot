@@ -1,10 +1,10 @@
 # Mail-In-Ballot
 
-# Requirements
+# Requirements:
 
    - Pygame: open cmd and run "pip install pygame"
 
-# Run
+# Run:
 
 
   - download "main.py", "Units.py", "Layer.py", "User.py", "Menu.py" and music and pictures folder
@@ -14,6 +14,13 @@
   - go to the folder with "main.py"
   
   - run "python main.py"
+  
+# Manual:
+   Goal: To reach 270 electoral votes before you're out of the electoral votes or out of lives.
+
+   How to win: Move with the arrows keys (up and down) to collect electoral votes (the blue circle) and shoot the mail ballot at
+			   the enemy to prevent him from getting into the White House by pressing the Space key. 
+			
 
 # Music:
 
@@ -25,7 +32,7 @@
   
   - Author: Not found
   
-Classic alarm 
+* Classic alarm 
 
   - License: Mixkit License(https://mixkit.co/license/)
   
@@ -33,7 +40,7 @@ Classic alarm
   
   - Author: Not found
   
-Fairy arcade sparkle
+* Fairy arcade sparkle
 
   - License: Mixkit License(https://mixkit.co/license/)
   
@@ -41,7 +48,7 @@ Fairy arcade sparkle
   
   - Author: Not found
   
-Cinematic ancient drums heartbeat
+* Cinematic ancient drums heartbeat
 
   - License: Mixkit License(https://mixkit.co/license/)
   
@@ -49,7 +56,7 @@ Cinematic ancient drums heartbeat
   
   - Author: Not found
  
-Short explosion
+* Short explosion
 
   - License: Mixkit License(https://mixkit.co/license/)
   
@@ -57,7 +64,7 @@ Short explosion
   
   - Author: Not found
   
-The Star Spangled Banner - Band Only
+* The Star Spangled Banner - Band Only
 
   - License: Youtube license(https://support.google.com/youtube/answer/3376882?hl=iw)
   
@@ -65,7 +72,7 @@ The Star Spangled Banner - Band Only
   
   - Author: The U.S. Army Band
   
-Funny Giggling
+* Funny Giggling
   
   - License: Mixkit License(https://mixkit.co/license/)
   
@@ -73,7 +80,7 @@ Funny Giggling
   
   - Author: Not found
   
-Arcade game jump coin
+* Arcade game jump coin
   
   - License: Mixkit License(https://mixkit.co/license/)
   
@@ -81,7 +88,7 @@ Arcade game jump coin
   
   - Author: Not found
   
-Short laser gun shot
+* Short laser gun shot
   
   - License: Mixkit License(https://mixkit.co/license/)
   
@@ -89,7 +96,7 @@ Short laser gun shot
   
   - Author: Not found
   
-Double little bird chirp
+* Double little bird chirp
   
   - License: Mixkit License(https://mixkit.co/license/)
   
@@ -100,7 +107,7 @@ Double little bird chirp
   
 # Images:
 
-Scroll Png Clipart
+* Scroll Png Clipart
   
   - License: Creative Commons (CC BY-NC 4.0)
   
@@ -108,7 +115,7 @@ Scroll Png Clipart
   
   - Author: Not found
   
-Left Arrow Clipart
+* Left Arrow Clipart
   
   - License: Creative Commons (CC BY-NC 4.0)
   
@@ -116,7 +123,7 @@ Left Arrow Clipart
   
   - Author: Not found
 
-Group of people waving american flags in back lit 
+* Group of people waving american flags in back lit 
   
   - License: Free for personal and commercial purpose with attribution
   
@@ -124,7 +131,7 @@ Group of people waving american flags in back lit
   
   - Author: rawpixel.com
   
-Email Download Free Download PNG HQ
+* Email Download Free Download PNG HQ
   
   - License: Creative Commons (CC BY-NC 4.0)
   
@@ -132,23 +139,15 @@ Email Download Free Download PNG HQ
   
   - Author: Not found
   
-White House  
+* White House  
   
   - License: Creative Commons (CC BY-NC 4.0)
   
   - link: https://freepngimg.com/png/31941-white-house
   
   - Author: Not found
-  
-White House  
-  
-  - License: Creative Commons (CC BY-NC 4.0)
-  
-  - link: https://freepngimg.com/png/31941-white-house
-  
-  - Author: Not found
-  
-Art Trump Poster Tshirt Donald Crippled America
+    
+* Art Trump Poster Tshirt Donald Crippled America
   
   - License: Creative Commons (CC BY-NC 4.0)
   
@@ -156,7 +155,7 @@ Art Trump Poster Tshirt Donald Crippled America
   
   - Author: Not found
   
-grass_template2
+* grass_template2
   
   - License: CC0 1.0 Universal (CC0 1.0)
   
@@ -164,7 +163,7 @@ grass_template2
   
   - Author: hassekf
   
-Paper Sheet Png Image
+* Paper Sheet Png Image
   
   - License: Creative Commons (CC BY-NC 4.0)
   
@@ -172,7 +171,7 @@ Paper Sheet Png Image
   
   - Author: Not found
   
-Fake HQ Image Free PNG
+* Fake HQ Image Free PNG
   
   - License: Creative Commons (CC BY-NC 4.0)
   
@@ -180,7 +179,7 @@ Fake HQ Image Free PNG
   
   - Author: Not found
   
-Heart Png Image Download
+* Heart Png Image Download
   
   - License: Creative Commons (CC BY-NC 4.0)
   
@@ -188,7 +187,7 @@ Heart Png Image Download
   
   - Author: Not found
   
-Right Arrow Hd
+* Right Arrow Hd
   
   - License: Creative Commons (CC BY-NC 4.0)
   
@@ -196,7 +195,7 @@ Right Arrow Hd
  
   - Author: Not found
   
-Democratic Party Elephant #1441094
+* Democratic Party Elephant #1441094
   
   - License: Personal Use
   
